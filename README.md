@@ -55,3 +55,4 @@ http://dedomil.net/games
 http://dedomil.net/games/search
 
 原图：
+<img src="http://imgsrc.baidu.com/forum/pic/item/3fde6d292df5e0feb3fb8070516034a85fdf7225.jpg"/>

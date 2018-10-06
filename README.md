@@ -9,7 +9,7 @@ http://www.goonmax.com
 
 http://d.958shop.com/format/game/0-88/
 
-http://w.47473.com/symbianjava/
+http://www.47473.com/symbianjava/
 
 玩家个人站
 http://www.11ou.com/jgame
@@ -53,3 +53,5 @@ https://java.mob.org.cn
 http://dedomil.net/games
 
 http://dedomil.net/games/search
+
+原图：

@@ -9,10 +9,10 @@ http://www.goonmax.com
 
 http://d.958shop.com/format/game/0-88/
 
-htp:/w.47473.com/symbianjava/
+http://w.47473.com/symbianjava/
 
 玩家个人站
-http://www.11ou.com/igame
+http://www.11ou.com/jgame
 
 http://app.cnmo.com/java/c102.html
 
